@@ -1,89 +1,72 @@
-# 👋 Hi, I'm Sonu Jaiswal
-
-💻 **Web Developer | Backend-focused Learner**  
-I enjoy building practical web applications and continuously improving my skills by working on real projects.
-
----
-
-## 🚀 About Me
-
-- 🔧 Currently focusing on **backend development** (Python, Flask, Django)
-- 🌱 Learning **full-stack development step by step**
-- 🧠 Strong interest in **problem-solving & logic building**
-- 🛠️ Believe in writing **clean, readable, and maintainable code**
-- 📈 Always upgrading projects to make them **resume-ready**
+# 💻 Sonu Jaiswal
+**Backend-Focused Developer | Full-Stack Aspirant**  
+*Crafting scalable solutions with clean architecture and practical implementation*
 
 ---
 
-## 🧩 What I Can Do
+## 🚀 Professional Summary
 
-- Build **backend logic & APIs**
-- Create **CRUD-based web applications**
-- Work with **databases** (MySQL, SQLite, MongoDB)
-- Develop **basic to intermediate full-stack projects**
-- Debug and improve existing code
+Backend developer specializing in Python ecosystems with hands-on experience building production-ready applications. Currently expanding into full-stack development through systematic project enhancement. Passionate about writing maintainable code, solving complex problems, and implementing efficient backend systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-### Languages
-- Python
-- JavaScript
-- Java
-- C++
+### **Backend Development**
+- **Python Frameworks:** Django | Flask | FastAPI
+- **API Development:** RESTful APIs | Authentication | Middleware
+- **Database Design:** Schema optimization | Query optimization | Migrations
 
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+### **Frontend Development**
+- **Core:** HTML5 | CSS3 | JavaScript (ES6+)
+- **Styling:** Bootstrap 5 | Tailwind CSS | Responsive Design
+- **JavaScript:** DOM manipulation | AJAX | Fetch API
 
-### Backend & Frameworks
-- Flask
-- Django
+### **Databases & ORM**
+- **SQL:** MySQL | PostgreSQL | SQLite
+- **NoSQL:** MongoDB | Mongoose
+- **ORM:** Django ORM | SQLAlchemy
 
-### Databases
-- MySQL
-- SQLite
-- MongoDB
-
-### Tools & Libraries
-- Git & GitHub
-- Pandas
-- NumPy
-- Canva
-- Adobe Photoshop
+### **Tools & DevOps**
+- **Version Control:** Git | GitHub | GitFlow
+- **Data Science:** Pandas | NumPy | Data Visualization
+- **Design Tools:** Adobe Suite | Figma | Canva
+- **Deployment:** Docker | Heroku | Netlify
 
 ---
 
-## 📂 Projects Focus
+## 📈 Featured Projects
 
-I prefer building **real-world inspired projects**, such as:
-- Student Management System
-- Expense Tracker (in progress)
-- Form-based web applications
-- Data handling & backend logic projects
+### **Expense Tracker Pro** *(In Development)*
+*Full-stack financial management system with analytics*
+- **Stack:** Django, PostgreSQL, Chart.js, Bootstrap
+- **Features:** Multi-user support, expense categorization, monthly reports, PDF export
+- **Key Contributions:** REST API design, data visualization, secure authentication
 
-> Every project is improved step by step instead of staying basic.
+### **Student Management System**
+*Production-ready administrative dashboard*
+- **Stack:** Flask, MySQL, Jinja2, Tailwind CSS
+- **Features:** CRUD operations, role-based access, attendance tracking, grade management
+- **Optimizations:** Database indexing, pagination, session management
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuJaiswal6828&theme=dark&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SonuJaiswal6828&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuJaiswal6828&layout=compact&theme=dark)
-
----
-
-## 📬 Connect With Me
-
-- 📧 Email: **sonuj6828@gmail.com**
-- 🌐 Portfolio: **https://sonuj-portfolio.netlify.app**
-- 💼 LinkedIn: https://linkedin.com/in/SonuJaiswal
-- 📷 Instagram: https://instagram.com/Sonujaiswal_68
+### **API-First Applications**
+*Collection of modular backend services*
+- Authentication microservice with JWT
+- File upload service with cloud storage integration
+- Real-time notification system
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=SonuJaiswal6828&icon=0&color=0)
+## 🎯 Development Philosophy
+
+```python
+def develop():
+    """My approach to building software"""
+    principles = [
+        "Clean Code > Clever Code",
+        "Iterative Improvement > Perfect First Try",
+        "Documentation as Priority",
+        "Test-Driven Development",
+        "Performance-Aware Implementation"
+    ]
+    return principles
