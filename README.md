@@ -58,9 +58,10 @@ Pandas · NumPy · Git · GitHub · VS Code
 
 ## 📬 Contact
 
-📧 **sonuj6828@gmail.com**  
-🌐 **sonuj-portfolio.netlify.app**  
-💼 **LinkedIn:** linkedin.com/in/SonuJaiswal  
+📧 **Email:** sonuj6828@gmail.com  
+🌐 **Portfolio:** https://sonuj-portfolio.netlify.app  
+💼 **LinkedIn:** https://linkedin.com/in/SonuJaiswal  
+📷 **Instagram:** https://instagram.com/Sonujaiswal_68 
 
 ---
 
