@@ -1,72 +1,68 @@
-# 💻 Sonu Jaiswal
-**Backend-Focused Developer | Full-Stack Aspirant**  
-*Crafting scalable solutions with clean architecture and practical implementation*
+# Hi, I'm Sonu Jaiswal 👋
+
+Backend-focused web developer who enjoys building clean, functional applications and improving them step-by-step.
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 Focus Areas
 
-Backend developer specializing in Python ecosystems with hands-on experience building production-ready applications. Currently expanding into full-stack development through systematic project enhancement. Passionate about writing maintainable code, solving complex problems, and implementing efficient backend systems.
-
----
-
-## 🛠️ Technical Expertise
-
-### **Backend Development**
-- **Python Frameworks:** Django | Flask | FastAPI
-- **API Development:** RESTful APIs | Authentication | Middleware
-- **Database Design:** Schema optimization | Query optimization | Migrations
-
-### **Frontend Development**
-- **Core:** HTML5 | CSS3 | JavaScript (ES6+)
-- **Styling:** Bootstrap 5 | Tailwind CSS | Responsive Design
-- **JavaScript:** DOM manipulation | AJAX | Fetch API
-
-### **Databases & ORM**
-- **SQL:** MySQL | PostgreSQL | SQLite
-- **NoSQL:** MongoDB | Mongoose
-- **ORM:** Django ORM | SQLAlchemy
-
-### **Tools & DevOps**
-- **Version Control:** Git | GitHub | GitFlow
-- **Data Science:** Pandas | NumPy | Data Visualization
-- **Design Tools:** Adobe Suite | Figma | Canva
-- **Deployment:** Docker | Heroku | Netlify
+- Backend logic & APIs
+- Database-driven applications
+- Full-stack development (learning & building)
 
 ---
 
-## 📈 Featured Projects
+## 🛠 Tech Stack
 
-### **Expense Tracker Pro** *(In Development)*
-*Full-stack financial management system with analytics*
-- **Stack:** Django, PostgreSQL, Chart.js, Bootstrap
-- **Features:** Multi-user support, expense categorization, monthly reports, PDF export
-- **Key Contributions:** REST API design, data visualization, secure authentication
+**Languages**  
+Python · JavaScript · Java · C++
 
-### **Student Management System**
-*Production-ready administrative dashboard*
-- **Stack:** Flask, MySQL, Jinja2, Tailwind CSS
-- **Features:** CRUD operations, role-based access, attendance tracking, grade management
-- **Optimizations:** Database indexing, pagination, session management
+**Frontend**  
+HTML · CSS · Bootstrap · Tailwind CSS
 
-### **API-First Applications**
-*Collection of modular backend services*
-- Authentication microservice with JWT
-- File upload service with cloud storage integration
-- Real-time notification system
+**Backend**  
+Flask · Django
+
+**Databases**  
+MySQL · SQLite · MongoDB
+
+**Data & Tools**  
+Pandas · NumPy · Git · GitHub · VS Code
 
 ---
 
-## 🎯 Development Philosophy
+## 🧩 What I Build
 
-```python
-def develop():
-    """My approach to building software"""
-    principles = [
-        "Clean Code > Clever Code",
-        "Iterative Improvement > Perfect First Try",
-        "Documentation as Priority",
-        "Test-Driven Development",
-        "Performance-Aware Implementation"
-    ]
-    return principles
+- CRUD-based web applications  
+- Form handling & validation  
+- Backend-first project architecture  
+- Real-world utility projects  
+
+---
+
+## 📌 Projects
+
+- **Student Management System** – backend-driven CRUD app  
+- **Expense Tracker** – real-world data handling (in progress)  
+- Multiple Flask-based form applications  
+
+---
+
+## 🌱 Currently Working On
+
+- Strengthening backend architecture
+- Improving data handling
+- Upgrading projects for resume & production readiness
+
+---
+
+## 📬 Contact
+
+📧 **sonuj6828@gmail.com**  
+🌐 **sonuj-portfolio.netlify.app**  
+💼 **LinkedIn:** linkedin.com/in/SonuJaiswal  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SonuJaiswal6828&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuJaiswal6828&layout=compact&theme=dark)
